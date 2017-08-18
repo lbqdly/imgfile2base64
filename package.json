@@ -12,7 +12,7 @@
   "author": "b5156",
   "repository": {
     "type": "git",
-    "url": "https://github.com/b5156/image2base64"
+    "url": "https://github.com/b5156/imgfile2base64"
   },
   "license": "ISC"
 }
