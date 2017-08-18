@@ -1,0 +1,18 @@
+{
+  "name": "image2base64",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "umd": "rollup src.js --format umd --name image2base64 --output index.js"
+  },
+  "keywords": [
+    "base64"
+  ],
+  "author": "b5156",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b5156/image2base64"
+  },
+  "license": "ISC"
+}
