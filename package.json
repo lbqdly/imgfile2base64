@@ -4,7 +4,7 @@
   "description": "image file to base64",
   "main": "index.js",
   "scripts": {
-    "umd": "rollup src.js --format umd --name image2base64 --output index.js"
+    "umd": "rollup src.js --format umd --name imgfile2base64 --output index.js"
   },
   "keywords": [
     "base64"
