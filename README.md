@@ -6,7 +6,9 @@ imgfile2base64能将一个image文件转换成base64字符串，基于[canvas](h
 
 ### 用法：
 
-使用 `npm i imgfile2base64 `
+使用
+
+`npm i imgfile2base64 `
 
 或
 
