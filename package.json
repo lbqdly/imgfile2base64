@@ -1,7 +1,7 @@
 {
   "name": "image2base64",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "image file to base64",
   "main": "index.js",
   "scripts": {
     "umd": "rollup src.js --format umd --name image2base64 --output index.js"
