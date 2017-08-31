@@ -31,6 +31,8 @@ imgfile2base64(file, function (base64) {
 
 ### 例子：
 
+[example](https://b5156.net/imgfile2base64-example.html)
+
 ```javascript
 <input id="file" type="file"/>
 <img id="img" src=""/>
