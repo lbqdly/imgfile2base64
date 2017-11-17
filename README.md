@@ -51,4 +51,7 @@ document.getElementById('file').addEventListener('change',
     }
 )
 ```
+## License
+
+MIT licensed.
 
