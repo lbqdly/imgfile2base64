@@ -31,7 +31,7 @@ imgfile2base64(file, function (base64) {
 
 ### 例子：
 
-[查看效果](https://b5156.net/imgfile2base64-example.html)
+[查看效果](http://140.143.21.85:1987/example-imgfile2base64/index.html)
 
 ```javascript
 <input id="file" type="file"/>
