@@ -13,8 +13,7 @@ imgfile2base64能将一个image文件转换成base64字符串，基于[canvas](h
 
 ```javascript
 imgfile2base64(file, function (base64) {
-  console.log(base64);
-  //data:image/jpeg;base64,.....
+  console.log(base64); // data:image/jpeg;base64,.....
 });
 ```
 
